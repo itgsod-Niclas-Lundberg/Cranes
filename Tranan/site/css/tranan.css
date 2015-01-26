@@ -2,10 +2,11 @@ body {
     height: 100%;
     width: 100%;
     margin: 0;
-    background-image: url("../img/Tranav3.1.jpg");
+
     background-repeat: no-repeat;
     background-position: center center;
-    background-color: floralwhite;
+    background-color: darkmagenta;
+
 
 
 
@@ -21,6 +22,7 @@ body {
     top: 0px;
     background: #B2B2B2;
 
+
 }
 
 
@@ -28,6 +30,7 @@ body {
   list-style: none;
   margin: 0;
   padding: 0;
+
 }
 
 #menu ul > li {
@@ -67,8 +70,25 @@ body {
 }
 
 #Eppning {
-   
+    width: 19.4%;
+    height: 25%;
+    float: right;
+    background: lightskyblue;
+    border-radius: 5px;
+    margin-right: 2%;
+    margin-top: 21%;
+}
 
+#Eppning h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 115px;
 
+}
 
+#Eppning p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 115px;
+    font-size: 120%;
 }
