@@ -1,0 +1,21 @@
+#logo {
+    color: royalblue;
+    float: left;
+    width: 100%;
+    height: 500px;
+}
+
+body {
+margin: 0px;
+
+}
+
+#background {
+    width: 1024px;
+    height: 640px;
+    margin-top: 5px;
+    background: url("../images/Bird.jpg") no-repeat 0;
+    background-size: 1024px;
+    opacity: 0.3;
+
+}
