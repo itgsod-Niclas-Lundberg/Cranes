@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedaae21-679a-4e18-8b9e-21356e64c2e6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tranan/site/public/img/Logo1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tranan/site/public/img/Logo3.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tranan/site/public/Evenemang.html" afterPath="$PROJECT_DIR$/Tranan/site/public/Evenemang.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tranan/site/public/boka.html" afterPath="$PROJECT_DIR$/Tranan/site/public/boka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tranan/site/public/kontakta.html" afterPath="$PROJECT_DIR$/Tranan/site/public/kontakta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tranan/site/layout.html.erb" afterPath="$PROJECT_DIR$/Tranan/site/layout.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tranan/site/public/meny.html" afterPath="$PROJECT_DIR$/Tranan/site/public/meny.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tranan/site/css/tranan.css" afterPath="$PROJECT_DIR$/Tranan/site/css/tranan.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tranan/site/public/css/tranan.css" afterPath="$PROJECT_DIR$/Tranan/site/public/css/tranan.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tranan/site/public/tranan.html" afterPath="$PROJECT_DIR$/Tranan/site/public/tranan.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Cranes.iws" />
@@ -98,7 +88,7 @@
       <file leaf-file-name="tranan.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tranan/site/css/tranan.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5940171" vertical-offset="768" max-vertical-offset="1575">
+            <state vertical-scroll-proportion="0.44444445" vertical-offset="873" max-vertical-offset="1575">
               <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
               <folding />
             </state>
@@ -500,7 +490,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tranan/site/css/tranan.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5940171" vertical-offset="768" max-vertical-offset="1575">
+        <state vertical-scroll-proportion="0.44444445" vertical-offset="873" max-vertical-offset="1575">
           <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
           <folding />
         </state>
