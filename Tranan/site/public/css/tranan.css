@@ -101,7 +101,8 @@ body {
 
 #menybuttons {
     display: table;
-    width: 19.4%;
-    
-
+    width: 100%;
+    background: white;
+    position: relative;
+    list-style-type: none;
 }
