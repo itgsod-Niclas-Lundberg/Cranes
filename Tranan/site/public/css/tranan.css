@@ -98,3 +98,10 @@ body {
     font-size: 120%;
 
 }
+
+#menybuttons {
+    display: table;
+    width: 19.4%;
+    
+
+}
